@@ -1,59 +1,82 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<p align="center">
+    <br><b>😈Devil-X-Music😈</b><br>
+</p>
+<p align="center"><a href="https://t.me/ARG_CHATS"><img src="https://te.legra.ph/file/4b62671afb697b5c46b29.jpg"></a></p>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
-
-[Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
-
-* Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
-* Written from scratch, making it stable and less crashes with attractive thumbnails.
-* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-* Multi-Language support
-
-
-# ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
-
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-
-## ⚠️ Heroku / Okteto / Railway
-
-We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/TheYukki/2541)
-
-## 🖇 Generating Pyrogram String Session
-
-<p>
-<a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+Hey this is a advance & one of the fastest Telegram Bot that allows you to stream music on Telegram Voice Chat.</b><br>
+<br>
+<u>New Features coming soon😍</b>
+<p align="center">
+    <img src="https://img.shields.io/github/stars/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/license/AnonymousR1025/FallenMusic?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/commit-activity/w/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Commit Activity">
+    <a href="https://github.com/AnonymousR1025/FallenMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/FallenMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/contributors/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Contributors">
+    <a href="https://github.com/AnonymousR1025/FallenMusic/issues"> <img src="https://img.shields.io/github/issues/AnonymousR1025/FallenMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/AnonymousR1025/FallenMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/FallenMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-## 🖇 VPS Deployment
+<details>
+<summary><h3> Requirements 📝</h3></summary>
 
-Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+- FFmpeg
+- NodeJS [nodesource.com](https://nodesource.com/)
+- Python 3.7 or higher
+- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+</details>
 
+<details>
+<summary><h3> Features 🔮</h3></summary>
 
-# 🏷 Support / Assistance
+- Yt-dL Fix
+- Updated Plug-in
+- Super Fast Bot
+- No Lag Hang
+- Fast Download Song From Server
+- Program Updated
+- Smooth Player
+</details>
 
-Reach out to the maintainer at one of the following places:
+<details>
+<summary><h3> Commands 🛠</h3></summary> 
 
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- `/play <song name>` - play song you requested
+- `/song <song name>` - download songs you want quickly
+- `/ping` - Bot Online or Offine
 
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
+#### Admins Only 👷‍♂️
+- `/pause` - pause song play
+- `/resume` - resume song play
+- `/skip` - play next song
+- `/end` - stop music play
+</details>
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
-- Fork the Repo :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
+ ## String Session
+    
+<p align="center"><a href="https://telegram.me/arg_stringsession_bot"> <img src="https://te.legra.ph/file/fd8bcb29b5475b84a939e.jpg" width="200" height="35.45"/></a></p>
 
-Together, we can make **YukkiMusicBot** better!
-# 📑 Acknowledgement / Credits
+## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DEVIL-BOTS/Devil-X-Music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Charon Baglari](https://github.com/XCBv021)
+## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
 
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/DEVIL-BOTS/Devil-X-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+The second easiest way to host this bot, Deploy on Okteto Cloud
 
-Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
+### ᴄʀᴇᴅɪᴛs 👑
+- [ ᵀᵉᵃᵐ『𝐒.𝐒』🇮🇳➤『𝙰𝚁𝙶』](https://t.me/ARG_GAMING_9300): Developer
+- [DEVIL-X-MUSIC 🎧](http://t.me/VIDEOxMUSIC_STREAMbot): Use this Bot
+
+[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+### Support & Developer 🎑
+<a href="https://telegram.me/ARG_CHATS"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ARG_GAMING_9300"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+------------------------------------------------
+-------------------------------------------------
