@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
+# Copyright (C) 2021-2022 by DEVIL-BOTS@Github, < https://github.com/DEVIL-BOTS >.
 #
-# This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
+# This file is part of < https://github.com/DEVIL-BOTS/Devil-X-Music > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiMusicBot/blob/master/LICENSE >
+# Please see < https://github.com/DEVIL-BOTS/Devil-X-Music/blob/master/LICENSE >
 #
 # All rights reserved.
 
